@@ -6,7 +6,7 @@ These tutorials can be run online usinng the [binder](https://mybinder.org/) ser
 
 Click the binder link to run the tutorials (inside the `src` folder):
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/inbo/lifewatch-meeting-2018/master?filepath=package_tutorials%2Fsrc)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/inbo/lifewatch-meeting-2018/Activate-RISE-in-Binder?filepath=package_tutorials%2Fsrc)
 
 
 ## Running the code locally
